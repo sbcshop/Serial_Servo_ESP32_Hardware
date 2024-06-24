@@ -1,7 +1,7 @@
 # Serial_Servo_ESP32_Hardware
-<!--
-<img src= "" />
--->
+<img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/esp32_banner.png?v=1718796728" />
+The ESP32 S3 based Serial Servo Board is designed for precise control of up to 253 Serial Bus Servos. It features built-in Wi-Fi, Bluetooth. Ideal choice for ESP32 based community interested to build robotics projects like hexapod walkers and robotic arms, its compact design ensures compatibility with space-constrained projects.
+
 This Github provides hardware design files for Serial Servo ESP32.
 
 ### Repository Contents:
@@ -11,25 +11,21 @@ This Github provides hardware design files for Serial Servo ESP32.
 
 
 ## Related Products  
+  * [Serial Servo Pico HAT](https://shop.sb-components.co.uk/products/serial-servo-pico-hat?_pos=5&_sid=1178c9361&_ss=r)
 
-  * [Serial Servo Pico HAT](https://shop.sb-components.co.uk/products/serial-servo-hat-for-pico?_pos=5&_sid=8d954c383&_ss=r)
-
-    ![Serial_Servo_Pico_HAT](https://shop.sb-components.co.uk/cdn/shop/files/SerialServoPicoHAT.jpg?v=1698412993&width=150)
+    ![Serial_Servo_Pico_HAT](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_1.png?v=1718781807&width=150)
     
-  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield?_pos=4&_sid=8d954c383&_ss=r)
+  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield-1?_pos=4&_sid=1178c9361&_ss=r)
 
-    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/servomotoron.jpg?v=1698413149&width=150)
+    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_3.png?v=1718793718&width=150)
 
-  * [Serial Servo Breakout](https://shop.sb-components.co.uk/products/serial-servo-breakout?_pos=2&_sid=25db0351c&_ss=r)
+  * [Serial Servo Raspberry Pi HAT](https://shop.sb-components.co.uk/products/serial-servo-raspberry-pi-hat?_pos=2&_sid=c593a9981&_ss=r)
 
-    ![Serial_Servo_Breakout](https://shop.sb-components.co.uk/cdn/shop/files/Breakout.jpg?v=1698413419&width=150)
-    
-  * [Serial Servo Raspberry Pi HAT](https://shop.sb-components.co.uk/products/serial-servo-hat-for-raspberry-pi?_pos=7&_sid=8d954c383&_ss=r)
+    ![Serial_Servo_Raspberry Pi_HAT](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_2.png?v=1718788805&width=150)
+  
+  * [Serial Servo Breakout](https://shop.sb-components.co.uk/products/serial-servo-breakout-1?_pos=3&_sid=5d47c0d83&_ss=r)
 
-    ![Serial_Servo_Raspberry Pi_HAT](https://shop.sb-components.co.uk/cdn/shop/files/SerialServoRaspberryPiHAT.jpg?v=1698412485&width=150)
-
-
-
+    ![Serial_Servo_Breakout](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2.png?v=1718780131&width=150)
 
 
 ## Product License
